@@ -1,5 +1,5 @@
 # 👩‍💻 Thando Funeka | Software Development Student  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thandofuneka)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thando-funeka-9b30ba256/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/thandofuneka)  
 [![Email](https://img.shields.io/badge/Email-thandofuneka1%40gmail.com-red?style=flat&logo=gmail)](mailto:thandofuneka1@gmail.com)
 
